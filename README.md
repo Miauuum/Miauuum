@@ -50,6 +50,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-elesb%C3%A3o-bispo-900701256/)](https://www.linkedin.com/in/douglas-elesb%C3%A3o-bispo-900701256/)
+[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-elesb%C3%A3o-bispo-900701256/)](https://www.linkedin.com/in/douglas-elesb%C3%A3o-bispo-900701256/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:442douglas@gmail.com)](mailto:442douglas@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Miauuum?label=follow&style=social)](https://github.com/Miauuum)
