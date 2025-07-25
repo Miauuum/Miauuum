@@ -3,8 +3,6 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação 8/8.
-- 💼 Trabalhando como Desenvolvedor Python Jr. na Suridata.
 - 🌱 Aprendendo mais sobre Python, GCP, AWS, HTML, CSS.
 
 ## Minhas Skills
