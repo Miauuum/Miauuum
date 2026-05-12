@@ -2,8 +2,11 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Aprendendo mais sobre Python, GCP, AWS, HTML, CSS.
+Engenheiro de Dados com mais de 3 anos de experiência no desenvolvimento de pipelines ETL/ELT
+escaláveis, automação em Python e arquitetura de dados em nuvem. Atuação em ambientes de alto volume
+com AWS e GCP, desde a ingestão até a disponibilização de dados para áreas de negócio. Experiência
+consolidada com ferramentas modernas como Apache Airflow, Spark, Docker e Terraform, combinada com
+forte orientação a qualidade, performance e boas práticas de engenharia de dados.
 
 ## Minhas Skills
 
